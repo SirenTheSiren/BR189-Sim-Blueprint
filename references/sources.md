@@ -1,0 +1,2 @@
+- **MFA Reference Pic:** https://i.ytimg.com/vi/IZosVGuFklc/maxresdefault.jpg
+- **UIC 612:** https://www.uic.org/com/IMG/pdf/090309_UIC_612_presentation.pdf

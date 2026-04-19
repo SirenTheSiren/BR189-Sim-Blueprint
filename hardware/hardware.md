@@ -1,0 +1,2 @@
+- **Main Displays**: https://de.aliexpress.com/item/4000927094581.html
+- **Display for Radio:** https://www.berrybase.de/waveshare-11.9-kapazitives-touch-display-fuer-raspberry-pi-320-1480-ips-dsi-interface or something similar 
